@@ -1,0 +1,29 @@
+h1 {
+    color:black;
+    
+  }
+  h2 {
+    color:blueviolet;
+    
+  }
+  h3 {
+      color: yellowgreen;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+  }
+  em{
+      color:blue;
+  }
+  h4 {
+    color: #ff00b3;
+    }
+    body{
+        background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTCQJsWYTxpVSJPbpVIuIAkMcu4J7hYubpMdQ6CSoh0Nz7ftf");
+    }
+    img {
+        float: left;
+      }
