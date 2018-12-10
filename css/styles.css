@@ -7,7 +7,7 @@ h1 {
     
   }
   h3 {
-      color: yellowgreen;
+      float: left;
   }
   p {
     font-family: sans-serif;
@@ -24,6 +24,7 @@ h1 {
     body{
         background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTCQJsWYTxpVSJPbpVIuIAkMcu4J7hYubpMdQ6CSoh0Nz7ftf");
     }
-    img {
-        float: left;
+    .makeup {
+         padding-left:10%;
+         padding-right: 10%
       }
