@@ -4,11 +4,8 @@ h1 {
   }
   h2 {
     color:blueviolet;
-    
   }
-  h3 {
-      float: left;
-  }
+
   p {
     font-family: sans-serif;
   }
@@ -18,13 +15,10 @@ h1 {
   em{
       color:blue;
   }
-  h4 {
-    color: #ff00b3;
-    }
+
     body{
         background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTCQJsWYTxpVSJPbpVIuIAkMcu4J7hYubpMdQ6CSoh0Nz7ftf");
+      background-size:cover;
     }
-    .makeup {
-         padding-left:10%;
-         padding-right: 10%
-      }
+
+   
