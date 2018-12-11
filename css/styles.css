@@ -1,13 +1,15 @@
 h1 {
-    color:black;
+    color:rgb(68, 0, 255);
     
   }
   h2 {
-    color:blueviolet;
+    color:black;
   }
 
   p {
     font-family: sans-serif;
+    display:flex;
+    
   }
   ul {
     line-height: 40px;
@@ -20,5 +22,9 @@ h1 {
         background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTCQJsWYTxpVSJPbpVIuIAkMcu4J7hYubpMdQ6CSoh0Nz7ftf");
       background-size:cover;
     }
-
+    .makeup {
+      width: 30%;
+      float: right;
+      background-color: yellow;
+    }
    
