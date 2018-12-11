@@ -1,23 +1,23 @@
 h1 {
     color:rgb(68, 0, 255);
-    
+    font-family: 'fantasy';
+    font-style: italic;
+    font-size: 60px;
+    text-align:center;
   }
   h2 {
     color:black;
   }
-
+  #abooutme{
+    color:blue
+  }
   p {
     font-family: sans-serif;
     display:flex;
-    
   }
   ul {
     line-height: 40px;
   }
-  em{
-      color:blue;
-  }
-
     body{
         background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTCQJsWYTxpVSJPbpVIuIAkMcu4J7hYubpMdQ6CSoh0Nz7ftf");
       background-size:cover;
