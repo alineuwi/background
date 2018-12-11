@@ -18,4 +18,4 @@ contact:0786405784
 Email:lolohmugisha@gmail.com
 This is my link for website:file:///home/wecode/Documents/background/background.html
 ### License
-opyright (c) 2018 (Laurence N.mugish)
+opyright (c) 2018 (Laurence N.mugisha)
