@@ -23,8 +23,8 @@ h1 {
       background-size:cover;
     }
     .makeup {
-      width: 30%;
       float: right;
-      background-color: yellow;
+      display:flex;  
+      margin-right:50%
     }
    
