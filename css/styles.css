@@ -9,7 +9,7 @@ h1 {
     color:black;
   }
   #abooutme{
-    color:blue
+    color:blue;
   }
   p {
     font-family: sans-serif;
@@ -25,11 +25,15 @@ h1 {
     .makeup {
       float: right;
       display:flex;  
-      margin-right:50%
+      margin-right:50%;
     }
   #hobbies > p{
-    line-height:1.5
-    }
+    line-height:1.5;
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
+  }
     .footer {
       display: flex;
       justify-content:center;
@@ -44,5 +48,10 @@ h1 {
     footer{
       background-color: red;
       width: 20%;
-      padding-bottom:10%; 
+      padding-bottom:3%;
+      padding-top: 3%;
+      padding-left: 2%;
+      padding-right: 2%; 
+      text-align: center; 
+      color: white;    
     }
